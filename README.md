@@ -1,5 +1,9 @@
 # BMI Calculator 💪
 
+An exercise for widget building and routing.
+
+<br />
+
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
 
